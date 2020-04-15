@@ -1,0 +1,8 @@
+-Level 6/144:
+What's the first special search in 1998?
+
+Solution: We are told to find the first special search in 1998. We can use an online web archive to help us.
+
+Link: http://web.archive.org/web/19981202230410/http://www.google.com:80/
+
+Answer: Stanford Search

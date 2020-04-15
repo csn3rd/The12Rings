@@ -1,7 +1,7 @@
 -Level 1/144:
 Who owns the fish?
 
-Solution: We recognize that this is a question from Albert Einstein's Five-Houses riddle.
+Solution: We are asked to find who owns the fish. We recognize that this is a question from Albert Einstein's Five-Houses riddle.
 
 Five-Houses Riddle:
 There are five houses in a row and in five different colors. In each house lives a person from a different country. Each person drinks a certain drink, plays a certain sport, and keeps a certain pet. No two people drink the same drink, play the same sport, or keep the same pet.
