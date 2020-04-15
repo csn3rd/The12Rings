@@ -1,0 +1,10 @@
+-Level 20/144:
+The months of the calendar have been coded in the following ways: January = 1071 February = 682 March = 1353 April = 154 May = 1335 June = 1046 July = 1047 August = 168 Using the same coding method, can you find out how to code September?
+
+Solution: We are given 8 months which have been encoded into numbers through some process and we are asked to figure out the number that September encodes into.
+
+After inspecting each of the numbers, we realize that April, August, and February have 3 digit codes while the other 5 months have 4 digit codes. Both April and August start with A and start with 1 in the code. Looking at all the other letters, we realize that the first 1 or 2 digits in the number represent the letter that the month starts with using A1Z26. We then see that the next digit is the length of the name of the month, and the last digit is the number of the month (January1December12).
+
+S is the 19th letter of the alphabet, has 9 letters, and is the 9th month.
+
+Answer: 1999
