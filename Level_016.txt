@@ -1,0 +1,10 @@
+-Level 16/144:
+What is hidden in level 3 of Chapter 1 in the puzzling odd pawn?
+
+Solution: We are told to find what is hidden in level 3 of CHpater 1 in the puzzling odd pawn. We can create an account and play Chapter 1 in odd pawn.
+
+Link: http://www.oddpawn.com/gameon/level.php?level=3
+
+We are told to look at the end of the source coude.
+
+Answer: love
