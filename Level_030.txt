@@ -1,0 +1,6 @@
+-Level 30/144:
+What is the decryption version of this? E_n(x)=(x+n)mod\ 26
+
+Solution: We are given an equation and are asked to find what the decryption of it is. We recognize that this is a caesar shift moving to the right. We can create a formula to decrypt the caesar shift by moving it to the left with subtraction.
+
+Answer: D_n(x)=(x-n)mod\ 26

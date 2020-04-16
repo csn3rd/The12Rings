@@ -1,0 +1,10 @@
+-Level 23/144:
+What 7 letter word links Segalen and Homer and TVR?
+
+Solution: We are asked to find a 7 letter word that connects Segalen, Homer, and TVR together. After finding all the connections between Segalen and Homer, we can check if TVR is connected to any of them in some way.
+
+Link: https://en.wikipedia.org/wiki/Chimera_(mythology)
+
+We find out that Segalen and Homer both wrote about chimera in their works. We also find that TVR has a car called TVR Chimera.
+
+Answer: Chimera

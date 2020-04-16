@@ -1,0 +1,14 @@
+-Level 31/144:
+What hit a windshield using Trifid 5 in the 24th March bird song?
+
+Solution: We are asked to figure out what hit a windshield. We recognie that bird song means Twitter. We can go to the 12 rings Twitter and find posts from March 24th.
+
+Link: https://twitter.com/the12rings/status/1242488078654042113
+
+We also recognize that Trifid is a cipher. We can use an online Trifid Decoder.
+
+Link: https://cryptii.com/pipes/trifid-cipher
+
+We can decode the ciphertext using an empty string as key and group size of 5 to get "cicadahitawindshield".
+
+Answer: cicada

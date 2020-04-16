@@ -1,0 +1,10 @@
+-Level 29/144:
+ᚺᛟᚹ ᛗᚨᚾᚤ ᛉᛖᚱᛟᛋ ᛁᚾ ᚨ ᛏᛖᚾ-ᛞᚢᛟᛏᚱᛁᚷᛁᚾᛏᛁᛚᛚᛁᛟᚾ
+
+Solution: We are given a text in runic alphabet. We can use an online translator to help us decode the text.
+
+Link: https://lingojam.com/RunicTranslator
+
+The problem now asks "How many zeros in a ten-duotrigintillion?"
+
+Answer: 100

@@ -1,0 +1,10 @@
+-Level 28/144:
+John (who tasted ale) had a famous writer son who married someone. What was her first name?
+
+Solution: We are asked to find the first name of a woman. We are given the name John and the fact that they tasted ale. After doing some basic research, we find that John Shakespeare was the official ale-taster of Stratford in 1556. We can confirm that this is who we are looking for because his son is William Shakespeare, a famous writer. We can now find out who he married.
+
+Link: https://en.wikipedia.org/wiki/William_Shakespeare
+
+His spouse is Anne Hathaway.
+
+Answer: Anne

@@ -1,0 +1,10 @@
+-Level 27/144:
+Which mathematical specialist inspired the original 12 Rings logo?
+
+Solution: We are asked to find the mathematician who inspired the logo. The logo is a ring of 12 circles that are tangent to each other. We can google tangent circles and see what we can find from there.
+
+Link: https://en.wikipedia.org/wiki/Tangent_circles
+
+Here, we see that there are 2 possibilities. Steiner or Pappus. After reading both articles, we realize that Pappus chains do not match the logo but Steiner chains do.
+
+Answer: Steiner
