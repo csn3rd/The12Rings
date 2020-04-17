@@ -1,6 +1,7 @@
 -Level 1/144:
 Who owns the fish?
 
+
 Solution: We are asked to find who owns the fish. We recognize that this is a question from Albert Einstein's Five-Houses riddle.
 
 Five-Houses Riddle:
@@ -24,7 +25,6 @@ The man who plays baseball has a neighbor who drinks water.
 
 Who owns The Fish?
 
-
 Riddle Matrix:
 
 House #1: Yellow, Norwegian, Water, Dunhill, Cats
@@ -33,5 +33,5 @@ House #3: Red, Brit, Milk, Pall Mall, Birds
 House #4: Green, German, Coffee, Prince, Fish
 House #5: White, Swede, Beer, BlueMaster, Dogs
 
-Answer: German
 
+Answer: German

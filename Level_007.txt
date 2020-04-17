@@ -1,8 +1,10 @@
 -Level 7/144:
 What code gets you to Nik Daum's secret awesomeness?
 
+
 Solution: We are told to find a code that gets us to Nik Daum's secret awesomeness. We can go to his website and look for any secret pages.
 
 We discover the following secret page: http://www.nikdaum.com/konami.htm
+
 
 Answer: Konami

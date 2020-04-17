@@ -1,8 +1,10 @@
 -Level 2/144:
 In the XKCD Life Scorecard, how many times should I have stayed?
 
+
 Solution: We are told to find the XKCD Life Scorecard and see how many times "I should have stayed".
 
 Link: https://xkcd.com/1768/
+
 
 Answer: 2

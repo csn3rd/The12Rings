@@ -1,8 +1,10 @@
 -Level 18/144:
 Fibonacci's will says: For those who want to find my money, follow the code below. TEA ACTUAL OBLIGATION FILLING PURSE Which object contains the cash?
 
+
 Solution: We are asked to find the object that contains the cash. One of the hints we are given is the name Fibonacci. The Fibonacci Sequence is 1,1,2,3,5,8,13, and so on.
 
 We can take the letters from each word using that sequence. There are five words, so we take the first letter in word one, first letter in word 2, second letter in word 3, third letter in word 4, and the fifth letter in word 5.
+
 
 Answer: TABLE

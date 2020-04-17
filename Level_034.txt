@@ -1,8 +1,10 @@
 -Level 34/144:
 However spjʊərɪəs, what's the correlation between bowling and legal practice in Idaho between 2000 and 2009?
 
+
 Solution: We are asked to find a correlation. spjʊərɪəs is the pronounciation of the word spurious. After doing some research, we discover something called spurious correlation. We can use an online spurious correlation grapher.
 
 Link: http://tylervigen.com/view_correlation?id=63943
+
 
 Answer: 0.688126

@@ -1,8 +1,10 @@
 -Level 3/144:
 What colour and shape does this produce? (sqrt(cos(x))*cos(200x)+sqrt(abs(x))-0.7)*(4-x*x)^0.01, sqrt(9-x^2), -sqrt(9-x^2) from -4.5 to 4.5
 
+
 Solution: We are given a set of equations and are told to find the color and shape of the graph. We can use the google grapher to help us graph.
 
 Link: https://www.google.com/search?q=(sqrt(cos(x))*cos(200x)%2Bsqrt(abs(x))-0.7)*(4-x*x)%5E0.01%2C+sqrt(9-x%5E2)%2C+-sqrt(9-x%5E2)+from+-4.5+to+4.5&oq=(sqrt(cos(x))*cos(200x)%2Bsqrt(abs(x))-0.7)*(4-x*x)%5E0.01%2C+sqrt(9-x%5E2)%2C+-sqrt(9-x%5E2)+from+-4.5+to+4.5&aqs=chrome..69i57.204j0j1&sourceid=chrome&ie=UTF-8
+
 
 Answer: Blue Heart

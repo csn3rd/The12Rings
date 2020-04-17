@@ -1,8 +1,10 @@
 -Level 9/144:
 A fold of 103 is bigger than what?
 
+
 Solution: We are told to find what a fold of 103 is bigger than. We can watch Nikola Slavkovic's Paper Folding Problem Video on Youtube.
 
 Link with timestamp: https://youtu.be/AAwabyyqWK0?t=36
+
 
 Answer: Universe

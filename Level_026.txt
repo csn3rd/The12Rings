@@ -1,6 +1,8 @@
 -Level 26/144:
 It is what it is.
 
+
 Solution: We are not given very much to go off of. The phrase given in the hint seems to point towards the answer being something in the problem statement. After some brute force / trial and error, we find that the answer is just the question number.
+
 
 Answer: 26

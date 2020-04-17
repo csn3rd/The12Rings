@@ -1,6 +1,7 @@
 -Level 25/144:
 12 o'clock Tomoe posted by Nirajan on 12FB/Inside
 
+
 Solution: We are asked to find a post by Nirajan on the Facebook Page or on the Inside Forums and to identify the Tomoe at the 12 o'clock position. We can go to Narajan's post history and get the following image.
 
 Link: http://inside.the12rings.com/wp-content/uploads/2020/04/FB_IMG_15867770747252253.jpg?1587018834046
@@ -8,5 +9,6 @@ Link: http://inside.the12rings.com/wp-content/uploads/2020/04/FB_IMG_15867770747
 After doing a reverse image search, we realize that these are Tomoe's from Naruto. We can go through the Narutopedia and look for the specific Tomoe.
 
 Link: https://naruto.fandom.com/wiki/Izuna_Uchiha
+
 
 Answer: Izuna

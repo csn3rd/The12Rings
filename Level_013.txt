@@ -1,6 +1,7 @@
 -Level 13/144:
 How many easter eggs does the wikipedia hedgehog hide?
 
+
 Solution: We are asked to find how many easter eggs that hare hidden by the wikipedia hedgehog. We can look up easter egg wikipedia.
 
 Link: https://en.wikipedia.org/wiki/Easter_egg_(media)
@@ -8,5 +9,6 @@ Link: https://en.wikipedia.org/wiki/Easter_egg_(media)
 At the top right of the page, we see an image of two rabbits and a hedgehog. The caption of the image says that there are hidden easter eggs that can be revealed when we click on the hedgehog. We can click on the hedgehog and see the hidden easter eggs.
 
 Link: https://commons.wikimedia.org/wiki/File:Bg-easter-eggs.jpg
+
 
 Answer: 11

@@ -1,10 +1,12 @@
 -Level 33/144:
 What question links my dear aunt Sally to the number 9?
 
+
 Solution: We are asked to find a question that links my dear aunt Sally and the number 9. We recognize that my dear aunt Sally is a mnemonic device taught in school for PEMDAS or the order of operations. We can look for questions that have to do with the number 9 and the order of operations.
 
 Link: https://slate.com/technology/2013/03/facebook-math-problem-why-pemdas-doesnt-always-give-a-clear-answer.html
 
 We discover a famous Facebook math problem that stumped many people, debating whether the answer is 9 or 1.
+
 
 Answer: 6 ÷ 2(1+2)

@@ -1,8 +1,10 @@
 -Level 17/144:
 I have a calculator that can display ten digits. How many different ten-digit numbers can I type using just the 0-9 keys once each, and moving from one keypress to the next using the knight’s move in chess?
 
+
 Solution: We are asked to find how many numbers can be formed from using the knight's move in chess. We can take out a ten digit calculator and try making all the different combinations.
 
 We end up finding that there are only 4 valid numbers: 4927619305, 5034927618, 5038167294, 8167294305.
+
 
 Answer: 4

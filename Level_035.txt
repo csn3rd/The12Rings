@@ -1,10 +1,12 @@
 -Level 35/144:
 Adjacent to the shadows in Liber Primus there's a numeric palindrome that results in 5. What is it?
 
+
 Solution: We are asked to find a numeric palindrome that results in 5. The first part of the hint says adjacent to the shadows in Liber Primus. We can do some research for what that means.
 
 Link: https://uncovering-cicada.fandom.com/wiki/CICADA_3301_2014_PUZZLE_FACTS_PART_5
 
 We discover a 5 by 5 magic square under the section titled "Some Wisdom". Next to the word shadows, we see the number 131 which is a numeric palindrome. If we sum up the digits, we get the number 5.
+
 
 Answer: 131

@@ -1,6 +1,7 @@
 -Level 24/144:
 Inside the Piperaceae family, you can find an entry pass to a village. Once inside, what will you probably drink?
 
+
 Solution: We are asked to find the name of a drink. The Piperaceae family is also known as the pepper family. We can use wikipedia to learn more about it.
 
 Link: https://en.wikipedia.org/wiki/Piperaceae
@@ -10,5 +11,6 @@ After doing some more research, on villages that use pepper in their drinks, we 
 Link: https://en.wikipedia.org/wiki/Kava
 
 Specifically, villages in Fiji typically use Kava roots to make a drink called grog.
+
 
 Answer: grog

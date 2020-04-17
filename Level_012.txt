@@ -1,8 +1,10 @@
 -Level 12/144:
 A red line runs through it, third from the right looks like a misspelt laugh. Where am I in the UK?
 
+
 Solution: We are asked to figure out where we are. We can look up red line in UK and find out that the Central Line in the London Underground is a red line on the map.
 
 Map: https://en.wikipedia.org/wiki/Central_line_(London_Underground)#Map
+
 
 Answer: London
