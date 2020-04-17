@@ -1,0 +1,8 @@
+-Level 36/144:
+The only movie on IMDB to have the potential of being rated with one more than 10 stars
+
+Solution: We are asked to find the only movie that has a potential rating of one more than ten. We can go to the imdb website and find movies that are rated out of 11.
+
+Link: https://www.imdb.com/title/tt0088258/
+
+Answer: This is Spinal Tap

@@ -1,6 +1,10 @@
 -Level 32/144:
 How did William measure traffic?
 
-Solution: We are asked to find how someone measured traffic. After looking at traffic in regards to transportation and looking for Williams, we realize that we are taking the wrong approach. Traffic could also mean internet traffic.
+Solution: We are asked to find how someone measured traffic. After looking at traffic in regards to transportation and looking for a William.
 
-Answer: 
+We find that William Henry Gates (Bill Gates) ran a traffic company in the 1970s. We can look up the company online.
+
+Link: https://en.wikipedia.org/wiki/Traf-O-Data
+
+Answer: Traf-O-Data
