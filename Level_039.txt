@@ -1,0 +1,22 @@
+-Level 39/144:
+Japanese gratitude (or easier, the page number of a sturdy home in Secrets) x Kongō's founding year = what ville?
+
+
+Solution: We are asked to find a city/village that matches some sort of number. Let us first figure out the multiplicand and multiplier.
+
+The first part, the multiplicand tells us to find a number meaning Japanese gratitude. Doing a quick google search leads us to the following link.
+
+https://uk.news.yahoo.com/apos-why-number-39-means-163522759.html
+
+The multiplicand is 39.
+
+The next part, asks us to find the founding year of something called Kongō. Doing some research leads us to find the world's oldest continuously ongoing independent company, called Kongō Gumi Co., Ltd.
+
+Link: https://en.wikipedia.org/wiki/Kong%C5%8D_Gumi
+
+The founding date and multiplier is 578.
+
+Multiplying 39 times 578 results in 22542. This looks like a zip code. Using a zip code finder, we find that 22542 is the postal code for Rhoadesville, Virginia.
+
+
+Answer: Rhoadesville

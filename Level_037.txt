@@ -1,0 +1,18 @@
+-Level 37/144:
+Inside the arcade domain of 12 lies a call to action. Follow it.
+
+
+Solution: We are told to go inside some domain and follow their actions. After looking around and trying different combinations of websites, we stumble upon "arcade.the12rings.com".
+
+Upon entering the website, we find out that we have reached the wrong domain. Trying some more combinations leads us to find "arcade12.com".
+
+This site tells us to connect with the ringmaster's machine to demonstrate wisdom. We are then told that the machine is equal to a twelve digit number.
+
+Upon further inspection, we recognize that it is a phone number and that the first 2 digits, 44, represent the mobile telephone prefix for the UK.
+
+After calling the number, we are tasked to enter the key. The website tells us to print ('+')(machine). After entering the key, some morse code is played.
+
+Recording it down, we got: "- .-- ---". We can translate this to get "TWO".
+
+
+Answer: 2

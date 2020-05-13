@@ -1,0 +1,16 @@
+-Level 38/144:
+Who links Gmina Buczek 2 Warrington?
+
+
+Solution: We are tasked to find someone who is connected to those two locations. 
+
+Something interesting to note is that the hint uses the number 2 to represent the word "to". Looking into the string "2 Warrington" leads us to the following link.
+
+https://www.english-heritage.org.uk/visit/blue-plaques/alan-turing/
+
+We discover that there is an English Heritage site with a plaque at 2 Warrington Cresent, marking the location of Alan Turing's birth.
+
+To confirm our answer, we can dive deeper into Alan Turing. We learn that Alan Turing worked at Bletchley Park during the Second World War to break German ciphers. He worked along with the Polish Cipher Bureau to crack the Enigma Machine. One of the intercept stations for capturing the encrypted German text was located in Gmina Buczek.
+
+
+Answer: Alan Turing
