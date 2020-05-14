@@ -2,7 +2,23 @@
 A distinctive doctrine of being involved leads you to a domain where this question lives. There's a clue beside the ribbons of colour in the secretsof.the12rings.com
 
 
-Solution:
+Solution: We are told to find a website and to answer the question on the website.
+
+The distinctive doctrine of being involved leads us to the term "involvism".
+
+Going to involvism.com, we see some text saying look deeper. Scrolling down, we see some decrypted / random text and then at the very bottom, we see a filename to an image. 
+
+The problem tells us to look deeper so let's take a look at the source code. We see a comment on the second line saying "Which group of people link 1.4.67 to an automotive training video?" This seems like the question we need to figure out.
+
+Maybe, the gibberish string and the filename may help us. Going to http://www.involvism.com/zz28874_coversecret.png, we discover a png of the Anonymous logo.
+
+Let's download the image and check for any steganography. After playing around, we figure out that when we use the gibberish text as the password, we get the following string.
+
+"When one door closes, another opens."
+
+Let's go back to the question. The first part asks us to connect 1.4.67. This looks like a date of some sort.
+
+After doing some research about famous events and things that happened on that day, we discover that a band called The Doors released their debut album on that day.
 
 
-Answer:
+Answer: The Doors
